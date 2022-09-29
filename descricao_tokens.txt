@@ -1,0 +1,18 @@
+IDENTIFICADORES
+Definir as RegEx: (a...z) (A...Z | 0...9 | a...z)* _> zero ou mais combinações
+				  
+NUMEROS
+	(0...9)+ -> uma ou mais repetições
+	
+PONTUACAO
+	;
+	
+OP_RELACIONAIS
+	< | <= | >= | > | == | !=
+	
+OP_ATRIBUICAO
+	=
+	
+a...z -> intervalo da letra a até a letra z
+*     -> 0 ou mais repetições
++	  -> 1 ou mais repetições
